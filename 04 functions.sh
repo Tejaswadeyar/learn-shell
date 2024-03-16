@@ -11,3 +11,9 @@ sample_sum() {
   }
 
   sample_sum 200 400
+
+  sample2()  {
+    echo hello1
+    return
+    echo hello2
+  }
