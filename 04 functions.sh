@@ -17,3 +17,4 @@ sample_sum() {
     return
     echo hello2
   }
+  sample2
