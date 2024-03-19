@@ -1,5 +1,5 @@
 i = 10
-while ["$i" -eq 10]; do
+while [ "$i" -gt 0 ]; do
   echo Hello world
   i = $(($i - 1))
 done
